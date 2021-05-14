@@ -1,0 +1,36 @@
+h1{
+  font-weight: bold;
+  font-family: Verdana, sans-serif;
+  color:blue;
+  font-size: 120px
+}
+h2{
+  font-weight: bold;
+  font-family: Verdana, sans-serif;
+  color:#541900;
+  font-size: 100px
+}
+h3{
+  font-weight: bold;
+  font-family: Verdana, sans-serif;
+}
+h4{
+  font-weight: bold;
+  font-family: Verdana, sans-serif;
+}
+h5{
+  font-weight: bold;
+  font-family: Verdana, sans-serif;
+}
+h6{
+  font-weight: bold;
+  font-family: Verdana, sans-serif;
+}
+img{
+  width: 25%;
+  height: 25%;
+}
+body{
+  font-family: Georgia, serif;
+  background-color: green;
+}
